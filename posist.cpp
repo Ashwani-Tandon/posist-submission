@@ -299,7 +299,7 @@ int main()
             struct MyNode* first=all[nNum1];
             struct MyNode* second=all[nNum2];
 
-            merge(first,second,headMyNodes);
+         
         }
 
     }
